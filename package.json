@@ -1,0 +1,17 @@
+{
+  "name": "mcga-clase10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fernando Frank",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.20",
+    "rambda": "^6.3.1"
+  }
+}
